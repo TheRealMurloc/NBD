@@ -1,0 +1,3 @@
+Card:{'Brand': 'AMD', 'Model': 'RX6500XT', 'Compute Units': 80, 'Stream Processors': 5120, 'Memory Type': 'GDDR6', 'Memory Bandwidth': 'Up to 512 GB/s'}
+Edited Card:{'Brand': 'AMD', 'Model': 'RX6500XT', 'Compute Units': 80, 'Stream Processors': 4900, 'Memory Type': 'GDDR6', 'Memory Bandwidth': 'Up to 512 GB/s'}
+Deleted Card:None

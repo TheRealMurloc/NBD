@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+ftlcRIpTImMfKsI5F7w5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17203>; rel="up"
+Last-Modified: Mon, 27 Jun 2022 10:38:38 GMT
+ETag: "sHRV5AbUGaO3DFmSKNOVA"
+Date: Mon, 27 Jun 2022 10:43:40 GMT
+Content-Type: application/json
+Content-Length: 168
+
+{
+	  "Brand": "AMD",
+	  "Model": "RX6900XT",
+	  "Compute Units": 80,
+	  "Stream Processors": 5120,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 512 GB/s"
+	}

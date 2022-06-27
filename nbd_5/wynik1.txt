@@ -1,0 +1,91 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+ftlcRIpTImMfKsI5F7w5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17203>; rel="up"
+Last-Modified: Mon, 27 Jun 2022 10:38:38 GMT
+ETag: "sHRV5AbUGaO3DFmSKNOVA"
+Date: Mon, 27 Jun 2022 10:38:38 GMT
+Content-Type: application/json
+Content-Length: 168
+
+{
+	  "Brand": "AMD",
+	  "Model": "RX6900XT",
+	  "Compute Units": 80,
+	  "Stream Processors": 5120,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 512 GB/s"
+	}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+fybcKIpTImMfKsI5F7w5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17203>; rel="up"
+Last-Modified: Mon, 27 Jun 2022 10:38:38 GMT
+ETag: "bIYlOMLpIzOgweeH91kuv"
+Date: Mon, 27 Jun 2022 10:38:38 GMT
+Content-Type: application/json
+Content-Length: 168
+
+{
+	  "Brand": "AMD",
+	  "Model": "RX6800XT",
+	  "Compute Units": 72,
+	  "Stream Processors": 4608,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 512 GB/s"
+	}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+f4VwBEUpkzGNlWMeid4cvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17203>; rel="up"
+Last-Modified: Mon, 27 Jun 2022 10:38:38 GMT
+ETag: "5F8RxgXQRzCVGPwVdI49Xc"
+Date: Mon, 27 Jun 2022 10:38:38 GMT
+Content-Type: application/json
+Content-Length: 168
+
+{
+	  "Brand": "AMD",
+	  "Model": "RX6700XT",
+	  "Compute Units": 40,
+	  "Stream Processors": 2560,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 384 GB/s"
+	}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+fqWMEEUpkzGNlWMeid4cvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17203>; rel="up"
+Last-Modified: Mon, 27 Jun 2022 10:38:38 GMT
+ETag: "1vY2Ha4GFBacj6Otk0F9yd"
+Date: Mon, 27 Jun 2022 10:38:38 GMT
+Content-Type: application/json
+Content-Length: 168
+
+{
+	  "Brand": "AMD",
+	  "Model": "RX6600XT",
+	  "Compute Units": 32,
+	  "Stream Processors": 2048,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 256 GB/s"
+	}HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+f4fEFIpTImMfKsI5F7w5fFgA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17203>; rel="up"
+Last-Modified: Mon, 27 Jun 2022 10:38:38 GMT
+ETag: "6ZBgkb4Mmy7BASpwfAMbcO"
+Date: Mon, 27 Jun 2022 10:38:38 GMT
+Content-Type: application/json
+Content-Length: 168
+
+{
+	  "Brand": "AMD",
+	  "Model": "RX6950XT",
+	  "Compute Units": 80,
+	  "Stream Processors": 5120,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 576 GB/s"
+	}

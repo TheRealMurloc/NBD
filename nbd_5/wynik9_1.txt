@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Mon, 27 Jun 2022 10:52:03 GMT
+Content-Type: application/json
+Content-Length: 84
+
+{"keys":["rx6900xt","rx6800xt","2dmA9e6X5hryHNlZhdtiTHME0Mf","rx6600xt","rx6700xt"]}

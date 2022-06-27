@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvn+fqWMEEUpkyWNlSGXTu8OXBQA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s17203>; rel="up"
+Last-Modified: Mon, 27 Jun 2022 10:45:57 GMT
+ETag: "3slzysBNlFQ9oZ4eTPo2Fp"
+Date: Mon, 27 Jun 2022 10:45:57 GMT
+Content-Type: application/json
+Content-Length: 171
+
+{
+	  "Brand": "AMD",
+	  "Model": "RX6600XT OC",
+	  "Compute Units": 32,
+	  "Stream Processors": 2048,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 256 GB/s"
+	}

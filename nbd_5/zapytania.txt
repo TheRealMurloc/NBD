@@ -1,0 +1,133 @@
+--1
+
+	curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6900XT",
+	  "Compute Units": 80,
+	  "Stream Processors": 5120,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 512 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys/rx6900xt?returnbody=true
+	
+	curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6800XT",
+	  "Compute Units": 72,
+	  "Stream Processors": 4608,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 512 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys/rx6800xt?returnbody=true
+	
+	curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6700XT",
+	  "Compute Units": 40,
+	  "Stream Processors": 2560,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 384 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys/rx6700xt?returnbody=true
+	
+	curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6600XT",
+	  "Compute Units": 32,
+	  "Stream Processors": 2048,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 256 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys/rx6600xt?returnbody=true
+	
+	curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6950XT",
+	  "Compute Units": 80,
+	  "Stream Processors": 5120,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 576 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys/rx6950xt?returnbody=true
+	
+	
+--2
+
+curl -i http://localhost:8098/buckets/s17203/keys/rx6900xt
+	
+--3
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6600XT",
+	  "Compute Units": 32,
+	  "Stream Processors": 2048,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 256 GB/s"
+	  "Memory Size": "8 GB"
+	}' http://localhost:8098/buckets/s17203/keys/rx6600xt?returnbody=true
+	
+--4
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6600XT",
+	  "Compute Units": 32,
+	  "Stream Processors": 2048,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 256 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys/rx6600xt?returnbody=true
+	
+--5
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6600XT OC",
+	  "Compute Units": 32,
+	  "Stream Processors": 2048,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 256 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys/rx6600xt?returnbody=true
+	
+--6
+
+curl -i -XDELETE http://localhost:8098/buckets/s17203/keys/rx6950xt
+
+--7
+
+curl -i http://localhost:8098/buckets/s17203/keys/rx6950xt
+
+--8
+----1
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6950XT",
+	  "Compute Units": 80,
+	  "Stream Processors": 5120,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 576 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys?returnbody=true
+	
+----2
+
+curl -i -XPOST -H "Content-Type: application/json" -d '{
+	  "Brand": "AMD",
+	  "Model": "RX6950XT",
+	  "Compute Units": 80,
+	  "Stream Processors": 5120,
+	  "Memory Type": "GDDR6",
+	  "Memory Bandwidth": "Up to 576 GB/s"
+	}' http://localhost:8098/buckets/s17203/keys?returnbody=true
+	
+--9
+
+----1
+
+curl -i http://localhost:8098/buckets/s17203/keys?keys=true 
+
+----2
+
+curl -i http://localhost:8098/buckets/s17203/keys/2dmA9e6X5hryHNlZhdtiTHME0Mf
+
+--10
+
+curl -i -XDELETE http://localhost:8098/buckets/s17203/keys/2dmA9e6X5hryHNlZhdtiTHME0Mf
+	
+
+

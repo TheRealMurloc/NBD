@@ -1,5 +1,6 @@
 --1
-MATCH (town:town {name: 'Darjeeling'}), (peak:peak {name:'Sandakphu'}), path = allShortestPaths((town)-[*]->(peak)) RETURN path
+MATCH (town:town {name: 'Darjeeling'}), (peak:peak {name:'Sandakphu'}), path = allShortestPaths((town)-[*]->(peak)) 
+RETURN path
 
 --2
 MATCH (town:town {name: 'Darjeeling'}), (peak:peak {name:'Sandakphu'}), path = allShortestPaths((town)-[*]->(peak)) 
@@ -8,7 +9,8 @@ RETURN path
 
 --3
 MATCH (town:town {name: 'Darjeeling'}), (peak:peak {name:'Sandakphu'}), path = ((town)-[*]->(peak)) 
-RETURN path, REDUCE(t = 0, r IN relationships(path) | t + r.distance) AS distance ORDER BY distance
+RETURN path, REDUCE(t = 0, p IN relationships(path) | t + p.distance) AS distance 
+ORDER BY distance
 
 --4
 MATCH (town:town {name: 'Darjeeling'}), path = ((town)-[:twowheeler]->(place)) 

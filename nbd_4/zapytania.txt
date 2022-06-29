@@ -1,0 +1,24 @@
+--1
+MATCH (town:town {name: 'Darjeeling'}), (peak:peak {name:'Sandakphu'}), path = allShortestPaths((town)-[*]->(peak)) RETURN path
+
+--2
+MATCH (town:town {name: 'Darjeeling'}), (peak:peak {name:'Sandakphu'}), path = allShortestPaths((town)-[*]->(peak)) 
+WHERE ALL (p IN relationships(path) WHERE p.winter="true") 
+RETURN path
+
+--3
+MATCH (town:town {name: 'Darjeeling'}), (peak:peak {name:'Sandakphu'}), path = ((town)-[*]->(peak)) 
+RETURN path, REDUCE(t = 0, r IN relationships(path) | t + r.distance) AS distance ORDER BY distance
+
+--4
+MATCH (town:town {name: 'Darjeeling'}), path = ((town)-[:twowheeler]->(place)) 
+WHERE ALL (p IN relationships(path) WHERE p.summer = 'true')
+RETURN place
+
+//brak rekordów
+
+--5
+MATCH (flight:Flight)-[:ORIGIN]->(airport:Airport)
+RETURN airport, count(flight) AS number
+ORDER BY number
+

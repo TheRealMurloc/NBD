@@ -17,10 +17,38 @@ MATCH (town:town {name: 'Darjeeling'}), path = ((town)-[:twowheeler]->(place))
 WHERE ALL (p IN relationships(path) WHERE p.summer = 'true')
 RETURN place
 
-//brak rekordów
-
 --5
 MATCH (flight:Flight)-[:ORIGIN]->(airport:Airport)
 RETURN airport, count(flight) AS number
 ORDER BY number
+
+--6
+MATCH path = (airport:Airport {name: "LAX"})<-[r1:ORIGIN]-(flight:Flight)-[r2:DESTINATION*]->(destination:Airport)
+WITH path, REDUCE(p = 0, n IN [node IN NODES(path) WHERE 'Flight' IN LABELS(node)] | p + [(ticket)-[:ASSIGN]->(n) | ticket.price][0]) as price
+WHERE price < 3000
+RETURN path, price
+
+--7
+MATCH path = (airport:Airport {name: "LAX"})<-[r1:ORIGIN]-(flight:Flight)-[r2:DESTINATION*]->(destination:Airport {name: "DAY"})
+WITH path, REDUCE(p = 0, n IN [node IN NODES(path) WHERE 'Flight' IN LABELS(node)] | p + [(ticket)-[:ASSIGN]->(n) | ticket.price][0]) as price
+RETURN path, price
+ORDER BY price desc
+
+--8
+MATCH path = (airport:Airport {name: "LAX"})<-[r1:ORIGIN]-(flight:Flight)-[r2:DESTINATION*]->(destination:Airport {name: "DAY"})
+WITH path, REDUCE(p = 0, n IN [node IN NODES(path) WHERE 'Flight' IN LABELS(node)] | p + [(ticket)-[:ASSIGN]->(n) | ticket.price][0]) as price
+RETURN path, price
+ORDER BY price asc LIMIT 1
+
+--9
+MATCH (airport:Airport)<-[:ORIGIN|DESTINATION]-(flight:Flight)-[:ORIGIN|DESTINATION*]->(airport2:Airport)
+RETURN flight.airline as airline, count(DISTINCT airport) as number_of_cities
+ORDER BY number_of_cities desc
+
+--10
+MATCH path = (airport1:Airport)<-[r1:ORIGIN]-(flight1:Flight)-[r2:DESTINATION]->(airport2:Airport)<-[r3:ORIGIN]-(flight2:Flight)-[r4:DESTINATION]->(airport3:Airport)
+WHERE not(airport1=airport2) AND not(airport2=airport3) AND not(airport3=airport1)
+WITH path, REDUCE(p = 0, n IN [node IN NODES(path) WHERE 'Flight' IN LABELS(node)] | p + [(ticket)-[:ASSIGN]->(n) | ticket.price][0]) as price
+RETURN path, price
+ORDER BY price asc LIMIT 1
 

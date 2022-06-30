@@ -1,2916 +1,28 @@
 MongoDB shell version v4.4.15
 connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("a8647ddc-cdc6-403b-9bc7-102f032bc550") }
+Implicit session: session { "id" : UUID("3215f069-68d1-4f69-905b-f12c11ff8874") }
 MongoDB server version: 4.4.14
 [
 	{
-		"_id" : null,
-		"job" : "Systems Administrator II"
-	},
-	{
-		"_id" : null,
-		"job" : "Chemical Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Computer Systems Analyst I"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach II"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst II"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer I"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Product Management"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Marketing"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Editor"
-	},
-	{
-		"_id" : null,
-		"job" : "Nurse"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator II"
-	},
-	{
-		"_id" : null,
-		"job" : "Automation Specialist I"
-	},
-	{
-		"_id" : null,
-		"job" : "Assistant Media Planner"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator I"
-	},
-	{
-		"_id" : null,
-		"job" : "General Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Sales"
-	},
-	{
-		"_id" : null,
-		"job" : "Assistant Professor"
-	},
-	{
-		"_id" : null,
-		"job" : "Data Coordiator"
-	},
-	{
-		"_id" : null,
-		"job" : "Payment Adjustment Coordinator"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Coordinator"
-	},
-	{
-		"_id" : null,
-		"job" : "Information Systems Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Systems Administrator IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician I"
-	},
-	{
-		"_id" : null,
-		"job" : "Paralegal"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager III"
-	},
-	{
-		"_id" : null,
-		"job" : "Engineer III"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Quality Control"
-	},
-	{
-		"_id" : null,
-		"job" : "Speech Pathologist"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Officer"
-	},
-	{
-		"_id" : null,
-		"job" : "Geological Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager I"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst II"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician III"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Internal Auditor"
-	},
-	{
-		"_id" : null,
-		"job" : "Chief Design Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Computer Systems Analyst IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Biostatistician I"
-	},
-	{
-		"_id" : null,
-		"job" : "Sales Associate"
-	},
-	{
-		"_id" : null,
-		"job" : "Environmental Tech"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Sales Associate"
-	},
-	{
-		"_id" : null,
-		"job" : "Compensation Analyst"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer I"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Accounting"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician III"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Engineer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Systems Administrator I"
-	},
-	{
-		"_id" : null,
-		"job" : "Mechanical Systems Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Editor"
-	},
-	{
-		"_id" : null,
-		"job" : "Director of Sales"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Physical Therapy Assistant"
-	},
-	{
-		"_id" : null,
-		"job" : "Junior Executive"
-	},
-	{
-		"_id" : null,
-		"job" : "Graphic Designer"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer II"
-	},
-	{
-		"_id" : null,
-		"job" : "IT systems maintenance specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Financial Analyst"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist I"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach III"
-	},
-	{
-		"_id" : null,
-		"job" : "Social Worker"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Engineer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Nuclear Power Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Computer Systems Analyst III"
-	},
-	{
-		"_id" : null,
-		"job" : "Executive Secretary"
-	},
-	{
-		"_id" : null,
 		"job" : "Tax Accountant"
 	},
 	{
-		"_id" : null,
 		"job" : "Account Representative III"
 	},
 	{
-		"_id" : null,
 		"job" : "Biostatistician III"
 	},
 	{
-		"_id" : null,
 		"job" : "Engineer I"
 	},
 	{
-		"_id" : null,
-		"job" : "Automation Specialist II"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician II"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician II"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Developer"
-	},
-	{
-		"_id" : null,
-		"job" : "Biostatistician IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Consultant"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Product Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator III"
-	},
-	{
-		"_id" : null,
-		"job" : "Environmental Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Desktop Support Technician"
-	},
-	{
-		"_id" : null,
-		"job" : "Technical Writer"
-	},
-	{
-		"_id" : null,
-		"job" : "Systems Administrator III"
-	},
-	{
-		"_id" : null,
-		"job" : "Electrical Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Quality Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Cost Accountant"
-	},
-	{
-		"_id" : null,
-		"job" : "Associate Professor"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Associate"
-	},
-	{
-		"_id" : null,
-		"job" : "Help Desk Technician"
-	},
-	{
-		"_id" : null,
-		"job" : "Analog Circuit Design manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Engineer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst I"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist III"
-	},
-	{
-		"_id" : null,
-		"job" : "Project Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Computer Systems Analyst II"
-	},
-	{
-		"_id" : null,
-		"job" : "Dental Hygienist"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Registered Nurse"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Professor"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst I"
-	},
-	{
-		"_id" : null,
-		"job" : "Design Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Help Desk Operator"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager II"
-	},
-	{
-		"_id" : null,
-		"job" : "Community Outreach Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Librarian"
-	},
-	{
-		"_id" : null,
-		"job" : "Recruiting Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant II"
-	},
-	{
-		"_id" : null,
 		"job" : "Business Systems Development Analyst"
 	},
 	{
-		"_id" : null,
-		"job" : "Software Engineer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Engineer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Representative IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst III"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach I"
-	},
-	{
-		"_id" : null,
-		"job" : "Marketing Assistant"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician I"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Financial Analyst"
-	},
-	{
-		"_id" : null,
-		"job" : "Cost Accountant"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Representative I"
-	},
-	{
-		"_id" : null,
-		"job" : "Assistant Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Clinical Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Occupational Therapist"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Nurse Practicioner"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Executive"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Civil Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Automation Specialist III"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant I"
-	},
-	{
-		"_id" : null,
-		"job" : "GIS Technical Architect"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Analyst Programmer"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst III"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Scientist"
-	},
-	{
-		"_id" : null,
-		"job" : "Quality Control Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Representative II"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Nurse"
-	},
-	{
-		"_id" : null,
-		"job" : "Recruiter"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Financial Advisor"
-	},
-	{
-		"_id" : null,
-		"job" : "Operator"
-	},
-	{
-		"_id" : null,
-		"job" : "Teacher"
-	},
-	{
-		"_id" : null,
-		"job" : "Actuary"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist II"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Biostatistician II"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Structural Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Pharmacist"
-	},
-	{
-		"_id" : null,
-		"job" : "Legal Assistant"
-	},
-	{
-		"_id" : null,
-		"job" : "Sales Representative"
-	},
-	{
-		"_id" : null,
-		"job" : "Food Chemist"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Automation Specialist IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Quality Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Engineer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Structural Analysis Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Marketing Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant IV"
-	}
-]
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("001f41c3-2a6c-47a9-a28e-f1c08ac8a964") }
-MongoDB server version: 4.4.14
-uncaught exception: Error: command failed: {
-	"ok" : 0,
-	"errmsg" : "Unrecognized expression '$addToSet'",
-	"code" : 168,
-	"codeName" : "InvalidPipelineOperator"
-} : aggregate failed :
-_getErrorWithCode@src/mongo/shell/utils.js:25:13
-doassert@src/mongo/shell/assert.js:18:14
-_assertCommandWorked@src/mongo/shell/assert.js:683:17
-assert.commandWorked@src/mongo/shell/assert.js:773:16
-DB.prototype._runAggregate@src/mongo/shell/db.js:266:5
-DBCollection.prototype.aggregate@src/mongo/shell/collection.js:1058:12
-@zapytanie_3_A.js:1:11
-failed to load: zapytanie_3_A.js
-exiting with code -3
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("b7e65083-2d07-4ab7-bf1d-185cab2b616c") }
-MongoDB server version: 4.4.14
-[
-	{
-		"_id" : null,
 		"job" : "Computer Systems Analyst III"
 	},
 	{
-		"_id" : null,
-		"job" : "Software Engineer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Representative IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Business Systems Development Analyst"
-	},
-	{
-		"_id" : null,
-		"job" : "Marketing Assistant"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst III"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach I"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Cost Accountant"
-	},
-	{
-		"_id" : null,
-		"job" : "Financial Analyst"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician I"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Clinical Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Occupational Therapist"
-	},
-	{
-		"_id" : null,
-		"job" : "Assistant Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Nurse Practicioner"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Representative I"
-	},
-	{
-		"_id" : null,
-		"job" : "Engineer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst I"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist III"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Registered Nurse"
-	},
-	{
-		"_id" : null,
-		"job" : "Dental Hygienist"
-	},
-	{
-		"_id" : null,
-		"job" : "Project Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Design Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Help Desk Operator"
-	},
-	{
-		"_id" : null,
-		"job" : "Computer Systems Analyst II"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst I"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Professor"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Recruiting Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Librarian"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager II"
-	},
-	{
-		"_id" : null,
-		"job" : "Community Outreach Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Pharmacist"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Legal Assistant"
-	},
-	{
-		"_id" : null,
-		"job" : "Food Chemist"
-	},
-	{
-		"_id" : null,
-		"job" : "Structural Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Engineer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Automation Specialist IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Sales Representative"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Quality Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Systems Administrator II"
-	},
-	{
-		"_id" : null,
-		"job" : "Marketing Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Structural Analysis Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Accounting Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Engineer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Civil Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Executive"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Scientist"
-	},
-	{
-		"_id" : null,
-		"job" : "Quality Control Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Analyst Programmer"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Representative II"
-	},
-	{
-		"_id" : null,
-		"job" : "GIS Technical Architect"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Developer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Automation Specialist III"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst III"
-	},
-	{
-		"_id" : null,
-		"job" : "Financial Advisor"
-	},
-	{
-		"_id" : null,
-		"job" : "Operator"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant II"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist II"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Nurse"
-	},
-	{
-		"_id" : null,
-		"job" : "Recruiter"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Biostatistician II"
-	},
-	{
-		"_id" : null,
-		"job" : "Teacher"
-	},
-	{
-		"_id" : null,
-		"job" : "Actuary"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Quality Control"
-	},
-	{
-		"_id" : null,
-		"job" : "Speech Pathologist"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager III"
-	},
-	{
-		"_id" : null,
-		"job" : "Engineer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Computer Systems Analyst IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Biostatistician I"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician I"
-	},
-	{
-		"_id" : null,
-		"job" : "Chief Design Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Internal Auditor"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician III"
-	},
-	{
-		"_id" : null,
-		"job" : "Geological Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant I"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Officer"
-	},
-	{
-		"_id" : null,
-		"job" : "Environmental Tech"
-	},
-	{
-		"_id" : null,
-		"job" : "Sales Associate"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Sales Associate"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Engineer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Systems Administrator I"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician III"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Accounting"
-	},
-	{
-		"_id" : null,
-		"job" : "Compensation Analyst"
-	},
-	{
-		"_id" : null,
-		"job" : "Computer Systems Analyst I"
-	},
-	{
-		"_id" : null,
-		"job" : "Chemical Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Editor"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Product Management"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Marketing"
-	},
-	{
-		"_id" : null,
-		"job" : "Nurse"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer I"
-	},
-	{
-		"_id" : null,
-		"job" : "Budget/Accounting Analyst II"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach II"
-	},
-	{
-		"_id" : null,
-		"job" : "General Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "VP Sales"
-	},
-	{
-		"_id" : null,
-		"job" : "Assistant Media Planner"
-	},
-	{
-		"_id" : null,
-		"job" : "Assistant Professor"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator II"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator I"
-	},
-	{
-		"_id" : null,
-		"job" : "Automation Specialist I"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Payment Adjustment Coordinator"
-	},
-	{
-		"_id" : null,
-		"job" : "Systems Administrator IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Administrative Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Assistant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Paralegal"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Coordinator"
-	},
-	{
-		"_id" : null,
-		"job" : "Data Coordiator"
-	},
-	{
-		"_id" : null,
-		"job" : "Information Systems Manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Biostatistician IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Consultant"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Developer"
-	},
-	{
-		"_id" : null,
-		"job" : "Statistician II"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Automation Specialist II"
-	},
-	{
-		"_id" : null,
-		"job" : "Safety Technician II"
-	},
-	{
-		"_id" : null,
-		"job" : "Environmental Specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Staff Accountant IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator III"
-	},
-	{
-		"_id" : null,
-		"job" : "Web Designer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Human Resources Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Product Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager I"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst II"
-	},
-	{
-		"_id" : null,
-		"job" : "Desktop Support Technician"
-	},
-	{
-		"_id" : null,
-		"job" : "Technical Writer"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Office Assistant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Associate Professor"
-	},
-	{
-		"_id" : null,
-		"job" : "Research Associate"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Cost Accountant"
-	},
-	{
-		"_id" : null,
-		"job" : "Help Desk Technician"
-	},
-	{
-		"_id" : null,
-		"job" : "Electrical Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Quality Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Analog Circuit Design manager"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Graphic Designer"
-	},
-	{
-		"_id" : null,
-		"job" : "Systems Administrator III"
-	},
-	{
-		"_id" : null,
-		"job" : "Physical Therapy Assistant"
-	},
-	{
-		"_id" : null,
-		"job" : "Junior Executive"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Software Test Engineer III"
-	},
-	{
-		"_id" : null,
-		"job" : "Mechanical Systems Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Editor"
-	},
-	{
-		"_id" : null,
-		"job" : "Director of Sales"
-	},
-	{
-		"_id" : null,
-		"job" : "Geologist I"
-	},
-	{
-		"_id" : null,
-		"job" : "Programmer Analyst IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Senior Financial Analyst"
-	},
-	{
-		"_id" : null,
-		"job" : "IT systems maintenance specialist"
-	},
-	{
-		"_id" : null,
-		"job" : "Engineer II"
-	},
-	{
-		"_id" : null,
-		"job" : "Nuclear Power Engineer"
-	},
-	{
-		"_id" : null,
-		"job" : "Database Administrator IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Accountant III"
-	},
-	{
-		"_id" : null,
-		"job" : "Developer IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Media Manager IV"
-	},
-	{
-		"_id" : null,
-		"job" : "Health Coach III"
-	},
-	{
-		"_id" : null,
-		"job" : "Social Worker"
-	},
-	{
-		"_id" : null,
-		"job" : "Tax Accountant"
-	},
-	{
-		"_id" : null,
-		"job" : "Account Representative III"
-	},
-	{
-		"_id" : null,
-		"job" : "Biostatistician III"
-	},
-	{
-		"_id" : null,
 		"job" : "Executive Secretary"
-	},
-	{
-		"_id" : null,
-		"job" : "Engineer I"
-	}
-]
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("6d80ee0a-a7f1-4e39-a257-f8ec1ae3561e") }
-MongoDB server version: 4.4.14
-[
-	{
-		"_id" : false,
-		"job" : "Automation Specialist I"
-	},
-	{
-		"_id" : false,
-		"job" : "Database Administrator I"
-	},
-	{
-		"_id" : false,
-		"job" : "Payment Adjustment Coordinator"
-	},
-	{
-		"_id" : false,
-		"job" : "Administrative Assistant III"
-	},
-	{
-		"_id" : false,
-		"job" : "Research Assistant IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Paralegal"
-	},
-	{
-		"_id" : false,
-		"job" : "Accountant II"
-	},
-	{
-		"_id" : false,
-		"job" : "Sales Representative"
-	},
-	{
-		"_id" : false,
-		"job" : "Automation Specialist IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Pharmacist"
-	},
-	{
-		"_id" : false,
-		"job" : "Budget/Accounting Analyst IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Legal Assistant"
-	},
-	{
-		"_id" : false,
-		"job" : "Food Chemist"
-	},
-	{
-		"_id" : false,
-		"job" : "Structural Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Safety Technician IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Staff Accountant IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Systems Administrator II"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Designer IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Marketing Manager"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer III"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer Analyst II"
-	},
-	{
-		"_id" : false,
-		"job" : "Structural Analysis Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Accounting Assistant IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Engineer I"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Developer IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Administrative Assistant II"
-	},
-	{
-		"_id" : false,
-		"job" : "Geologist IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Senior Quality Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Human Resources Assistant IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Office Assistant II"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Test Engineer II"
-	},
-	{
-		"_id" : false,
-		"job" : "Quality Control Specialist"
-	},
-	{
-		"_id" : false,
-		"job" : "Staff Scientist"
-	},
-	{
-		"_id" : false,
-		"job" : "Account Representative II"
-	},
-	{
-		"_id" : false,
-		"job" : "Analyst Programmer"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Developer I"
-	},
-	{
-		"_id" : false,
-		"job" : "GIS Technical Architect"
-	},
-	{
-		"_id" : false,
-		"job" : "Budget/Accounting Analyst III"
-	},
-	{
-		"_id" : false,
-		"job" : "Automation Specialist III"
-	},
-	{
-		"_id" : false,
-		"job" : "Civil Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Human Resources Manager"
-	},
-	{
-		"_id" : false,
-		"job" : "Accountant I"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Designer III"
-	},
-	{
-		"_id" : false,
-		"job" : "Account Executive"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Developer II"
-	},
-	{
-		"_id" : false,
-		"job" : "Office Assistant IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Biostatistician II"
-	},
-	{
-		"_id" : false,
-		"job" : "Actuary"
-	},
-	{
-		"_id" : false,
-		"job" : "Teacher"
-	},
-	{
-		"_id" : false,
-		"job" : "Operator"
-	},
-	{
-		"_id" : false,
-		"job" : "Financial Advisor"
-	},
-	{
-		"_id" : false,
-		"job" : "Geologist II"
-	},
-	{
-		"_id" : false,
-		"job" : "Human Resources Assistant II"
-	},
-	{
-		"_id" : false,
-		"job" : "Research Nurse"
-	},
-	{
-		"_id" : false,
-		"job" : "Recruiter"
-	},
-	{
-		"_id" : false,
-		"job" : "Marketing Assistant"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer I"
-	},
-	{
-		"_id" : false,
-		"job" : "Health Coach I"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer Analyst III"
-	},
-	{
-		"_id" : false,
-		"job" : "Research Assistant II"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Engineer III"
-	},
-	{
-		"_id" : false,
-		"job" : "Accountant IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Business Systems Development Analyst"
-	},
-	{
-		"_id" : false,
-		"job" : "Account Representative IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Office Assistant I"
-	},
-	{
-		"_id" : false,
-		"job" : "Occupational Therapist"
-	},
-	{
-		"_id" : false,
-		"job" : "Clinical Specialist"
-	},
-	{
-		"_id" : false,
-		"job" : "Assistant Manager"
-	},
-	{
-		"_id" : false,
-		"job" : "Developer III"
-	},
-	{
-		"_id" : false,
-		"job" : "Nurse Practicioner"
-	},
-	{
-		"_id" : false,
-		"job" : "Account Representative I"
-	},
-	{
-		"_id" : false,
-		"job" : "Cost Accountant"
-	},
-	{
-		"_id" : false,
-		"job" : "Financial Analyst"
-	},
-	{
-		"_id" : false,
-		"job" : "Statistician I"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Test Engineer IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Staff Accountant I"
-	},
-	{
-		"_id" : false,
-		"job" : "Registered Nurse"
-	},
-	{
-		"_id" : false,
-		"job" : "Dental Hygienist"
-	},
-	{
-		"_id" : false,
-		"job" : "Computer Systems Analyst II"
-	},
-	{
-		"_id" : false,
-		"job" : "Project Manager"
-	},
-	{
-		"_id" : false,
-		"job" : "Human Resources Assistant I"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Designer I"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer Analyst I"
-	},
-	{
-		"_id" : false,
-		"job" : "Engineer IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Geologist III"
-	},
-	{
-		"_id" : false,
-		"job" : "Librarian"
-	},
-	{
-		"_id" : false,
-		"job" : "Recruiting Manager"
-	},
-	{
-		"_id" : false,
-		"job" : "Community Outreach Specialist"
-	},
-	{
-		"_id" : false,
-		"job" : "Statistician IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Accounting Assistant I"
-	},
-	{
-		"_id" : false,
-		"job" : "Accounting Assistant III"
-	},
-	{
-		"_id" : false,
-		"job" : "Research Assistant I"
-	},
-	{
-		"_id" : false,
-		"job" : "Media Manager II"
-	},
-	{
-		"_id" : false,
-		"job" : "Staff Accountant II"
-	},
-	{
-		"_id" : false,
-		"job" : "Design Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Budget/Accounting Analyst I"
-	},
-	{
-		"_id" : false,
-		"job" : "Help Desk Operator"
-	},
-	{
-		"_id" : false,
-		"job" : "Professor"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Developer III"
-	},
-	{
-		"_id" : false,
-		"job" : "Accounting Assistant II"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Engineer IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Web Designer II"
-	},
-	{
-		"_id" : false,
-		"job" : "Environmental Specialist"
-	},
-	{
-		"_id" : false,
-		"job" : "Database Administrator III"
-	},
-	{
-		"_id" : false,
-		"job" : "Product Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Human Resources Assistant III"
-	},
-	{
-		"_id" : false,
-		"job" : "Biostatistician IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Consultant"
-	},
-	{
-		"_id" : false,
-		"job" : "Statistician II"
-	},
-	{
-		"_id" : false,
-		"job" : "Senior Developer"
-	},
-	{
-		"_id" : false,
-		"job" : "Staff Accountant III"
-	},
-	{
-		"_id" : false,
-		"job" : "Safety Technician II"
-	},
-	{
-		"_id" : false,
-		"job" : "Automation Specialist II"
-	},
-	{
-		"_id" : false,
-		"job" : "Analog Circuit Design manager"
-	},
-	{
-		"_id" : false,
-		"job" : "Associate Professor"
-	},
-	{
-		"_id" : false,
-		"job" : "Research Associate"
-	},
-	{
-		"_id" : false,
-		"job" : "Senior Cost Accountant"
-	},
-	{
-		"_id" : false,
-		"job" : "Help Desk Technician"
-	},
-	{
-		"_id" : false,
-		"job" : "Electrical Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Quality Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Developer II"
-	},
-	{
-		"_id" : false,
-		"job" : "Systems Administrator III"
-	},
-	{
-		"_id" : false,
-		"job" : "Desktop Support Technician"
-	},
-	{
-		"_id" : false,
-		"job" : "Technical Writer"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer II"
-	},
-	{
-		"_id" : false,
-		"job" : "Health Coach IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Geologist I"
-	},
-	{
-		"_id" : false,
-		"job" : "Senior Financial Analyst"
-	},
-	{
-		"_id" : false,
-		"job" : "Graphic Designer"
-	},
-	{
-		"_id" : false,
-		"job" : "Junior Executive"
-	},
-	{
-		"_id" : false,
-		"job" : "Physical Therapy Assistant"
-	},
-	{
-		"_id" : false,
-		"job" : "IT systems maintenance specialist"
-	},
-	{
-		"_id" : false,
-		"job" : "Director of Sales"
-	},
-	{
-		"_id" : false,
-		"job" : "Mechanical Systems Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Editor"
-	},
-	{
-		"_id" : false,
-		"job" : "Account Representative III"
-	},
-	{
-		"_id" : false,
-		"job" : "Tax Accountant"
-	},
-	{
-		"_id" : false,
-		"job" : "Executive Secretary"
-	},
-	{
-		"_id" : false,
-		"job" : "Biostatistician III"
-	},
-	{
-		"_id" : false,
-		"job" : "Engineer I"
-	},
-	{
-		"_id" : false,
-		"job" : "Computer Systems Analyst III"
-	},
-	{
-		"_id" : false,
-		"job" : "Nuclear Power Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Engineer II"
-	},
-	{
-		"_id" : false,
-		"job" : "Accountant III"
-	},
-	{
-		"_id" : false,
-		"job" : "Database Administrator IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Media Manager IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Developer IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Social Worker"
-	},
-	{
-		"_id" : false,
-		"job" : "Health Coach III"
-	},
-	{
-		"_id" : false,
-		"job" : "Internal Auditor"
-	},
-	{
-		"_id" : false,
-		"job" : "Chief Design Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Statistician III"
-	},
-	{
-		"_id" : false,
-		"job" : "Administrative Assistant I"
-	},
-	{
-		"_id" : false,
-		"job" : "Geological Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Administrative Officer"
-	},
-	{
-		"_id" : false,
-		"job" : "Speech Pathologist"
-	},
-	{
-		"_id" : false,
-		"job" : "VP Quality Control"
-	},
-	{
-		"_id" : false,
-		"job" : "Computer Systems Analyst IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Media Manager III"
-	},
-	{
-		"_id" : false,
-		"job" : "Engineer III"
-	},
-	{
-		"_id" : false,
-		"job" : "Biostatistician I"
-	},
-	{
-		"_id" : false,
-		"job" : "Safety Technician I"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Engineer II"
-	},
-	{
-		"_id" : false,
-		"job" : "Systems Administrator I"
-	},
-	{
-		"_id" : false,
-		"job" : "Safety Technician III"
-	},
-	{
-		"_id" : false,
-		"job" : "Compensation Analyst"
-	},
-	{
-		"_id" : false,
-		"job" : "VP Accounting"
-	},
-	{
-		"_id" : false,
-		"job" : "Environmental Tech"
-	},
-	{
-		"_id" : false,
-		"job" : "Senior Sales Associate"
-	},
-	{
-		"_id" : false,
-		"job" : "Developer I"
-	},
-	{
-		"_id" : false,
-		"job" : "Sales Associate"
-	},
-	{
-		"_id" : false,
-		"job" : "Administrative Assistant IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Senior Editor"
-	},
-	{
-		"_id" : false,
-		"job" : "Nurse"
-	},
-	{
-		"_id" : false,
-		"job" : "VP Product Management"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Test Engineer I"
-	},
-	{
-		"_id" : false,
-		"job" : "VP Marketing"
-	},
-	{
-		"_id" : false,
-		"job" : "Budget/Accounting Analyst II"
-	},
-	{
-		"_id" : false,
-		"job" : "Health Coach II"
-	},
-	{
-		"_id" : false,
-		"job" : "Computer Systems Analyst I"
-	},
-	{
-		"_id" : false,
-		"job" : "Software Test Engineer III"
-	},
-	{
-		"_id" : false,
-		"job" : "Chemical Engineer"
-	},
-	{
-		"_id" : false,
-		"job" : "Research Assistant III"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer Analyst IV"
-	},
-	{
-		"_id" : false,
-		"job" : "Media Manager I"
-	},
-	{
-		"_id" : false,
-		"job" : "Office Assistant III"
-	},
-	{
-		"_id" : false,
-		"job" : "Account Coordinator"
-	},
-	{
-		"_id" : false,
-		"job" : "Information Systems Manager"
-	},
-	{
-		"_id" : false,
-		"job" : "Data Coordiator"
-	},
-	{
-		"_id" : false,
-		"job" : "Systems Administrator IV"
-	},
-	{
-		"_id" : false,
-		"job" : "General Manager"
-	},
-	{
-		"_id" : false,
-		"job" : "VP Sales"
-	},
-	{
-		"_id" : false,
-		"job" : "Assistant Media Planner"
-	},
-	{
-		"_id" : false,
-		"job" : "Assistant Professor"
-	},
-	{
-		"_id" : false,
-		"job" : "Database Administrator II"
-	},
-	{
-		"_id" : false,
-		"job" : "Programmer IV"
-	}
-]
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("fa2f548d-cc77-4348-b155-bac0baae63af") }
-MongoDB server version: 4.4.14
-uncaught exception: Error: command failed: {
-	"ok" : 0,
-	"errmsg" : "a group specification must include an _id",
-	"code" : 15955,
-	"codeName" : "Location15955"
-} : aggregate failed :
-_getErrorWithCode@src/mongo/shell/utils.js:25:13
-doassert@src/mongo/shell/assert.js:18:14
-_assertCommandWorked@src/mongo/shell/assert.js:683:17
-assert.commandWorked@src/mongo/shell/assert.js:773:16
-DB.prototype._runAggregate@src/mongo/shell/db.js:266:5
-DBCollection.prototype.aggregate@src/mongo/shell/collection.js:1058:12
-@zapytanie_3_A.js:1:11
-failed to load: zapytanie_3_A.js
-exiting with code -3
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("28fb41c6-5330-409e-83d6-cd808129ac7d") }
-MongoDB server version: 4.4.14
-[
-	{
-		"job" : "Associate Professor"
-	},
-	{
-		"job" : "Research Associate"
-	},
-	{
-		"job" : "Engineer IV"
-	},
-	{
-		"job" : "Analog Circuit Design manager"
-	},
-	{
-		"job" : "Programmer Analyst I"
-	},
-	{
-		"job" : "Developer II"
-	},
-	{
-		"job" : "Health Coach IV"
-	},
-	{
-		"job" : "Geologist III"
-	},
-	{
-		"job" : "Project Manager"
-	},
-	{
-		"job" : "Human Resources Assistant I"
-	},
-	{
-		"job" : "Computer Systems Analyst II"
-	},
-	{
-		"job" : "Dental Hygienist"
-	},
-	{
-		"job" : "Web Designer I"
-	},
-	{
-		"job" : "Registered Nurse"
-	},
-	{
-		"job" : "Staff Accountant I"
-	},
-	{
-		"job" : "Professor"
-	},
-	{
-		"job" : "Budget/Accounting Analyst I"
-	},
-	{
-		"job" : "Design Engineer"
-	},
-	{
-		"job" : "Help Desk Operator"
-	},
-	{
-		"job" : "Web Developer III"
-	},
-	{
-		"job" : "Research Assistant I"
-	},
-	{
-		"job" : "Accounting Assistant III"
-	},
-	{
-		"job" : "Accounting Assistant I"
-	},
-	{
-		"job" : "Media Manager II"
-	},
-	{
-		"job" : "Community Outreach Specialist"
-	},
-	{
-		"job" : "Statistician IV"
-	},
-	{
-		"job" : "Librarian"
-	},
-	{
-		"job" : "Recruiting Manager"
-	},
-	{
-		"job" : "Staff Accountant II"
-	},
-	{
-		"job" : "Accounting Assistant II"
-	},
-	{
-		"job" : "Business Systems Development Analyst"
-	},
-	{
-		"job" : "Software Engineer IV"
-	},
-	{
-		"job" : "Accountant IV"
-	},
-	{
-		"job" : "Web Designer II"
-	},
-	{
-		"job" : "Software Engineer III"
-	},
-	{
-		"job" : "Account Representative IV"
-	},
-	{
-		"job" : "Research Assistant II"
-	},
-	{
-		"job" : "Programmer Analyst III"
-	},
-	{
-		"job" : "Health Coach I"
-	},
-	{
-		"job" : "Marketing Assistant"
-	},
-	{
-		"job" : "Programmer I"
-	},
-	{
-		"job" : "Statistician I"
-	},
-	{
-		"job" : "Software Test Engineer IV"
-	},
-	{
-		"job" : "Financial Analyst"
-	},
-	{
-		"job" : "Cost Accountant"
-	},
-	{
-		"job" : "Account Representative I"
-	},
-	{
-		"job" : "Assistant Manager"
-	},
-	{
-		"job" : "Clinical Specialist"
-	},
-	{
-		"job" : "Occupational Therapist"
-	},
-	{
-		"job" : "Office Assistant I"
-	},
-	{
-		"job" : "Developer III"
-	},
-	{
-		"job" : "Nurse Practicioner"
-	},
-	{
-		"job" : "Account Executive"
-	},
-	{
-		"job" : "Web Developer II"
-	},
-	{
-		"job" : "Human Resources Manager"
-	},
-	{
-		"job" : "Civil Engineer"
-	},
-	{
-		"job" : "Automation Specialist III"
-	},
-	{
-		"job" : "Accountant I"
-	},
-	{
-		"job" : "GIS Technical Architect"
-	},
-	{
-		"job" : "Web Developer I"
-	},
-	{
-		"job" : "Analyst Programmer"
-	},
-	{
-		"job" : "Budget/Accounting Analyst III"
-	},
-	{
-		"job" : "Staff Scientist"
-	},
-	{
-		"job" : "Quality Control Specialist"
-	},
-	{
-		"job" : "Web Designer III"
-	},
-	{
-		"job" : "Account Representative II"
-	},
-	{
-		"job" : "Research Nurse"
-	},
-	{
-		"job" : "Recruiter"
-	},
-	{
-		"job" : "Human Resources Assistant II"
-	},
-	{
-		"job" : "Financial Advisor"
-	},
-	{
-		"job" : "Operator"
-	},
-	{
-		"job" : "Teacher"
-	},
-	{
-		"job" : "Actuary"
-	},
-	{
-		"job" : "Geologist II"
-	},
-	{
-		"job" : "Office Assistant IV"
-	},
-	{
-		"job" : "Biostatistician II"
-	},
-	{
-		"job" : "Web Developer IV"
-	},
-	{
-		"job" : "Structural Engineer"
-	},
-	{
-		"job" : "Budget/Accounting Analyst IV"
-	},
-	{
-		"job" : "Legal Assistant"
-	},
-	{
-		"job" : "Pharmacist"
-	},
-	{
-		"job" : "Sales Representative"
-	},
-	{
-		"job" : "Food Chemist"
-	},
-	{
-		"job" : "Accountant II"
-	},
-	{
-		"job" : "Automation Specialist IV"
-	},
-	{
-		"job" : "Programmer III"
-	},
-	{
-		"job" : "Office Assistant II"
-	},
-	{
-		"job" : "Human Resources Assistant IV"
-	},
-	{
-		"job" : "Senior Quality Engineer"
-	},
-	{
-		"job" : "Software Engineer I"
-	},
-	{
-		"job" : "Administrative Assistant II"
-	},
-	{
-		"job" : "Structural Analysis Engineer"
-	},
-	{
-		"job" : "Marketing Manager"
-	},
-	{
-		"job" : "Accounting Assistant IV"
-	},
-	{
-		"job" : "Systems Administrator II"
-	},
-	{
-		"job" : "Chemical Engineer"
-	},
-	{
-		"job" : "Research Assistant III"
-	},
-	{
-		"job" : "Computer Systems Analyst I"
-	},
-	{
-		"job" : "Health Coach II"
-	},
-	{
-		"job" : "Software Test Engineer III"
-	},
-	{
-		"job" : "Budget/Accounting Analyst II"
-	},
-	{
-		"job" : "Software Test Engineer I"
-	},
-	{
-		"job" : "VP Product Management"
-	},
-	{
-		"job" : "VP Marketing"
-	},
-	{
-		"job" : "Programmer Analyst IV"
-	},
-	{
-		"job" : "Senior Editor"
-	},
-	{
-		"job" : "Nurse"
-	},
-	{
-		"job" : "Programmer IV"
-	},
-	{
-		"job" : "Database Administrator II"
-	},
-	{
-		"job" : "Automation Specialist I"
-	},
-	{
-		"job" : "Assistant Media Planner"
-	},
-	{
-		"job" : "Database Administrator I"
-	},
-	{
-		"job" : "General Manager"
-	},
-	{
-		"job" : "VP Sales"
-	},
-	{
-		"job" : "Assistant Professor"
-	},
-	{
-		"job" : "Data Coordiator"
-	},
-	{
-		"job" : "Payment Adjustment Coordinator"
-	},
-	{
-		"job" : "Account Coordinator"
-	},
-	{
-		"job" : "Information Systems Manager"
-	},
-	{
-		"job" : "Systems Administrator IV"
-	},
-	{
-		"job" : "Administrative Assistant III"
-	},
-	{
-		"job" : "Research Assistant IV"
-	},
-	{
-		"job" : "Safety Technician I"
-	},
-	{
-		"job" : "Paralegal"
-	},
-	{
-		"job" : "Safety Technician IV"
-	},
-	{
-		"job" : "Staff Accountant IV"
-	},
-	{
-		"job" : "Media Manager III"
-	},
-	{
-		"job" : "Engineer III"
-	},
-	{
-		"job" : "VP Quality Control"
-	},
-	{
-		"job" : "Speech Pathologist"
-	},
-	{
-		"job" : "Web Designer IV"
-	},
-	{
-		"job" : "Administrative Officer"
-	},
-	{
-		"job" : "Geological Engineer"
-	},
-	{
-		"job" : "Media Manager I"
-	},
-	{
-		"job" : "Programmer Analyst II"
-	},
-	{
-		"job" : "Statistician III"
-	},
-	{
-		"job" : "Administrative Assistant I"
-	},
-	{
-		"job" : "Chief Design Engineer"
-	},
-	{
-		"job" : "Internal Auditor"
-	},
-	{
-		"job" : "Office Assistant III"
-	},
-	{
-		"job" : "Computer Systems Analyst IV"
-	},
-	{
-		"job" : "Biostatistician I"
-	},
-	{
-		"job" : "Sales Associate"
-	},
-	{
-		"job" : "Environmental Tech"
-	},
-	{
-		"job" : "Senior Sales Associate"
-	},
-	{
-		"job" : "Compensation Analyst"
-	},
-	{
-		"job" : "Developer I"
-	},
-	{
-		"job" : "VP Accounting"
-	},
-	{
-		"job" : "Administrative Assistant IV"
-	},
-	{
-		"job" : "Safety Technician III"
-	},
-	{
-		"job" : "Software Engineer II"
-	},
-	{
-		"job" : "Systems Administrator I"
-	},
-	{
-		"job" : "Mechanical Systems Engineer"
-	},
-	{
-		"job" : "Editor"
-	},
-	{
-		"job" : "Director of Sales"
-	},
-	{
-		"job" : "Geologist IV"
-	},
-	{
-		"job" : "Physical Therapy Assistant"
-	},
-	{
-		"job" : "Junior Executive"
-	},
-	{
-		"job" : "Graphic Designer"
-	},
-	{
-		"job" : "Software Test Engineer II"
-	},
-	{
-		"job" : "IT systems maintenance specialist"
-	},
-	{
-		"job" : "Senior Financial Analyst"
-	},
-	{
-		"job" : "Geologist I"
-	},
-	{
-		"job" : "Health Coach III"
-	},
-	{
-		"job" : "Social Worker"
-	},
-	{
-		"job" : "Developer IV"
-	},
-	{
-		"job" : "Media Manager IV"
 	},
 	{
 		"job" : "Database Administrator IV"
@@ -2925,58 +37,70 @@ MongoDB server version: 4.4.14
 		"job" : "Nuclear Power Engineer"
 	},
 	{
-		"job" : "Computer Systems Analyst III"
+		"job" : "Health Coach III"
 	},
 	{
-		"job" : "Executive Secretary"
+		"job" : "Social Worker"
 	},
 	{
-		"job" : "Tax Accountant"
+		"job" : "Developer IV"
 	},
 	{
-		"job" : "Account Representative III"
+		"job" : "Media Manager IV"
 	},
 	{
-		"job" : "Biostatistician III"
+		"job" : "Senior Financial Analyst"
 	},
 	{
-		"job" : "Engineer I"
+		"job" : "Geologist I"
 	},
 	{
-		"job" : "Automation Specialist II"
+		"job" : "Physical Therapy Assistant"
 	},
 	{
-		"job" : "Staff Accountant III"
+		"job" : "Junior Executive"
 	},
 	{
-		"job" : "Safety Technician II"
+		"job" : "Graphic Designer"
 	},
 	{
-		"job" : "Senior Developer"
+		"job" : "IT systems maintenance specialist"
 	},
 	{
-		"job" : "Statistician II"
+		"job" : "Mechanical Systems Engineer"
 	},
 	{
-		"job" : "Biostatistician IV"
+		"job" : "Editor"
 	},
 	{
-		"job" : "Software Consultant"
+		"job" : "Director of Sales"
 	},
 	{
-		"job" : "Human Resources Assistant III"
+		"job" : "Senior Cost Accountant"
 	},
 	{
-		"job" : "Product Engineer"
+		"job" : "Help Desk Technician"
 	},
 	{
-		"job" : "Database Administrator III"
+		"job" : "Associate Professor"
 	},
 	{
-		"job" : "Environmental Specialist"
+		"job" : "Research Associate"
+	},
+	{
+		"job" : "Analog Circuit Design manager"
+	},
+	{
+		"job" : "Electrical Engineer"
+	},
+	{
+		"job" : "Quality Engineer"
 	},
 	{
 		"job" : "Programmer II"
+	},
+	{
+		"job" : "Developer II"
 	},
 	{
 		"job" : "Desktop Support Technician"
@@ -2988,43 +112,346 @@ MongoDB server version: 4.4.14
 		"job" : "Systems Administrator III"
 	},
 	{
-		"job" : "Electrical Engineer"
+		"job" : "Health Coach IV"
 	},
 	{
-		"job" : "Quality Engineer"
+		"job" : "Database Administrator III"
 	},
 	{
-		"job" : "Senior Cost Accountant"
+		"job" : "Environmental Specialist"
 	},
 	{
-		"job" : "Help Desk Technician"
-	}
-]
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("f4bb735d-7d81-40df-a06e-a66346492930") }
-MongoDB server version: 4.4.14
-[
+		"job" : "Human Resources Assistant III"
+	},
 	{
 		"job" : "Product Engineer"
 	},
 	{
-		"job" : "Budget/Accounting Analyst I"
+		"job" : "Statistician II"
 	},
 	{
-		"job" : "Design Engineer"
+		"job" : "Senior Developer"
 	},
 	{
-		"job" : "Help Desk Operator"
+		"job" : "Biostatistician IV"
 	},
 	{
-		"job" : "Web Developer III"
+		"job" : "Automation Specialist II"
 	},
 	{
-		"job" : "Web Designer II"
+		"job" : "Software Consultant"
 	},
 	{
-		"job" : "Professor"
+		"job" : "Staff Accountant III"
+	},
+	{
+		"job" : "Safety Technician II"
+	},
+	{
+		"job" : "Office Assistant III"
+	},
+	{
+		"job" : "Media Manager I"
+	},
+	{
+		"job" : "Data Coordiator"
+	},
+	{
+		"job" : "Account Coordinator"
+	},
+	{
+		"job" : "Assistant Media Planner"
+	},
+	{
+		"job" : "Information Systems Manager"
+	},
+	{
+		"job" : "General Manager"
+	},
+	{
+		"job" : "VP Sales"
+	},
+	{
+		"job" : "Assistant Professor"
+	},
+	{
+		"job" : "Programmer IV"
+	},
+	{
+		"job" : "Database Administrator II"
+	},
+	{
+		"job" : "Automation Specialist I"
+	},
+	{
+		"job" : "VP Product Management"
+	},
+	{
+		"job" : "VP Marketing"
+	},
+	{
+		"job" : "Database Administrator I"
+	},
+	{
+		"job" : "Senior Editor"
+	},
+	{
+		"job" : "Nurse"
+	},
+	{
+		"job" : "Payment Adjustment Coordinator"
+	},
+	{
+		"job" : "Budget/Accounting Analyst II"
+	},
+	{
+		"job" : "Software Test Engineer I"
+	},
+	{
+		"job" : "Systems Administrator IV"
+	},
+	{
+		"job" : "Chemical Engineer"
+	},
+	{
+		"job" : "Research Assistant III"
+	},
+	{
+		"job" : "Computer Systems Analyst I"
+	},
+	{
+		"job" : "Administrative Assistant III"
+	},
+	{
+		"job" : "Research Assistant IV"
+	},
+	{
+		"job" : "Paralegal"
+	},
+	{
+		"job" : "Safety Technician IV"
+	},
+	{
+		"job" : "Staff Accountant IV"
+	},
+	{
+		"job" : "Web Designer IV"
+	},
+	{
+		"job" : "Software Engineer II"
+	},
+	{
+		"job" : "Programmer Analyst II"
+	},
+	{
+		"job" : "VP Accounting"
+	},
+	{
+		"job" : "Compensation Analyst"
+	},
+	{
+		"job" : "Health Coach II"
+	},
+	{
+		"job" : "Geologist IV"
+	},
+	{
+		"job" : "Sales Associate"
+	},
+	{
+		"job" : "Software Test Engineer III"
+	},
+	{
+		"job" : "Software Test Engineer II"
+	},
+	{
+		"job" : "Environmental Tech"
+	},
+	{
+		"job" : "Senior Sales Associate"
+	},
+	{
+		"job" : "Developer I"
+	},
+	{
+		"job" : "Administrative Assistant IV"
+	},
+	{
+		"job" : "Systems Administrator I"
+	},
+	{
+		"job" : "Safety Technician III"
+	},
+	{
+		"job" : "Statistician III"
+	},
+	{
+		"job" : "Administrative Assistant I"
+	},
+	{
+		"job" : "Internal Auditor"
+	},
+	{
+		"job" : "Chief Design Engineer"
+	},
+	{
+		"job" : "Administrative Officer"
+	},
+	{
+		"job" : "Geological Engineer"
+	},
+	{
+		"job" : "Media Manager III"
+	},
+	{
+		"job" : "Engineer III"
+	},
+	{
+		"job" : "VP Quality Control"
+	},
+	{
+		"job" : "Speech Pathologist"
+	},
+	{
+		"job" : "Safety Technician I"
+	},
+	{
+		"job" : "Computer Systems Analyst IV"
+	},
+	{
+		"job" : "Biostatistician I"
+	},
+	{
+		"job" : "Office Assistant IV"
+	},
+	{
+		"job" : "Teacher"
+	},
+	{
+		"job" : "Actuary"
+	},
+	{
+		"job" : "Biostatistician II"
+	},
+	{
+		"job" : "Programmer Analyst IV"
+	},
+	{
+		"job" : "Human Resources Assistant II"
+	},
+	{
+		"job" : "Financial Advisor"
+	},
+	{
+		"job" : "Operator"
+	},
+	{
+		"job" : "Geologist II"
+	},
+	{
+		"job" : "Research Nurse"
+	},
+	{
+		"job" : "Recruiter"
+	},
+	{
+		"job" : "Analyst Programmer"
+	},
+	{
+		"job" : "Account Representative II"
+	},
+	{
+		"job" : "Staff Scientist"
+	},
+	{
+		"job" : "Quality Control Specialist"
+	},
+	{
+		"job" : "Automation Specialist III"
+	},
+	{
+		"job" : "GIS Technical Architect"
+	},
+	{
+		"job" : "Web Developer I"
+	},
+	{
+		"job" : "Budget/Accounting Analyst III"
+	},
+	{
+		"job" : "Web Developer II"
+	},
+	{
+		"job" : "Human Resources Manager"
+	},
+	{
+		"job" : "Civil Engineer"
+	},
+	{
+		"job" : "Accountant I"
+	},
+	{
+		"job" : "Web Designer III"
+	},
+	{
+		"job" : "Account Executive"
+	},
+	{
+		"job" : "Marketing Manager"
+	},
+	{
+		"job" : "Accounting Assistant IV"
+	},
+	{
+		"job" : "Systems Administrator II"
+	},
+	{
+		"job" : "Software Engineer I"
+	},
+	{
+		"job" : "Administrative Assistant II"
+	},
+	{
+		"job" : "Structural Analysis Engineer"
+	},
+	{
+		"job" : "Senior Quality Engineer"
+	},
+	{
+		"job" : "Office Assistant II"
+	},
+	{
+		"job" : "Human Resources Assistant IV"
+	},
+	{
+		"job" : "Sales Representative"
+	},
+	{
+		"job" : "Accountant II"
+	},
+	{
+		"job" : "Programmer III"
+	},
+	{
+		"job" : "Budget/Accounting Analyst IV"
+	},
+	{
+		"job" : "Pharmacist"
+	},
+	{
+		"job" : "Legal Assistant"
+	},
+	{
+		"job" : "Food Chemist"
+	},
+	{
+		"job" : "Automation Specialist IV"
+	},
+	{
+		"job" : "Web Developer IV"
+	},
+	{
+		"job" : "Structural Engineer"
 	},
 	{
 		"job" : "Media Manager II"
@@ -3054,19 +481,28 @@ MongoDB server version: 4.4.14
 		"job" : "Staff Accountant II"
 	},
 	{
+		"job" : "Budget/Accounting Analyst I"
+	},
+	{
+		"job" : "Design Engineer"
+	},
+	{
+		"job" : "Help Desk Operator"
+	},
+	{
+		"job" : "Web Developer III"
+	},
+	{
 		"job" : "Accounting Assistant II"
 	},
 	{
 		"job" : "Software Engineer IV"
 	},
 	{
-		"job" : "Geologist III"
+		"job" : "Professor"
 	},
 	{
-		"job" : "Engineer IV"
-	},
-	{
-		"job" : "Programmer Analyst I"
+		"job" : "Web Designer II"
 	},
 	{
 		"job" : "Registered Nurse"
@@ -3087,19 +523,16 @@ MongoDB server version: 4.4.14
 		"job" : "Dental Hygienist"
 	},
 	{
-		"job" : "Financial Analyst"
-	},
-	{
 		"job" : "Web Designer I"
 	},
 	{
-		"job" : "Cost Accountant"
+		"job" : "Geologist III"
 	},
 	{
-		"job" : "Statistician I"
+		"job" : "Engineer IV"
 	},
 	{
-		"job" : "Software Test Engineer IV"
+		"job" : "Programmer Analyst I"
 	},
 	{
 		"job" : "Clinical Specialist"
@@ -3120,19 +553,19 @@ MongoDB server version: 4.4.14
 		"job" : "Assistant Manager"
 	},
 	{
+		"job" : "Financial Analyst"
+	},
+	{
 		"job" : "Nurse Practicioner"
 	},
 	{
-		"job" : "Accountant IV"
+		"job" : "Cost Accountant"
 	},
 	{
-		"job" : "Software Engineer III"
+		"job" : "Statistician I"
 	},
 	{
-		"job" : "Account Representative IV"
-	},
-	{
-		"job" : "Business Systems Development Analyst"
+		"job" : "Software Test Engineer IV"
 	},
 	{
 		"job" : "Programmer Analyst III"
@@ -3150,447 +583,12 @@ MongoDB server version: 4.4.14
 		"job" : "Research Assistant II"
 	},
 	{
-		"job" : "Human Resources Assistant II"
+		"job" : "Accountant IV"
 	},
 	{
-		"job" : "Financial Advisor"
+		"job" : "Software Engineer III"
 	},
 	{
-		"job" : "Operator"
-	},
-	{
-		"job" : "Geologist II"
-	},
-	{
-		"job" : "Research Nurse"
-	},
-	{
-		"job" : "Recruiter"
-	},
-	{
-		"job" : "Office Assistant IV"
-	},
-	{
-		"job" : "Teacher"
-	},
-	{
-		"job" : "Actuary"
-	},
-	{
-		"job" : "Biostatistician II"
-	},
-	{
-		"job" : "Web Developer II"
-	},
-	{
-		"job" : "Human Resources Manager"
-	},
-	{
-		"job" : "Civil Engineer"
-	},
-	{
-		"job" : "Accountant I"
-	},
-	{
-		"job" : "Web Designer III"
-	},
-	{
-		"job" : "Account Executive"
-	},
-	{
-		"job" : "Analyst Programmer"
-	},
-	{
-		"job" : "Account Representative II"
-	},
-	{
-		"job" : "Staff Scientist"
-	},
-	{
-		"job" : "Quality Control Specialist"
-	},
-	{
-		"job" : "Automation Specialist III"
-	},
-	{
-		"job" : "GIS Technical Architect"
-	},
-	{
-		"job" : "Web Developer I"
-	},
-	{
-		"job" : "Senior Quality Engineer"
-	},
-	{
-		"job" : "Budget/Accounting Analyst III"
-	},
-	{
-		"job" : "Office Assistant II"
-	},
-	{
-		"job" : "Human Resources Assistant IV"
-	},
-	{
-		"job" : "Marketing Manager"
-	},
-	{
-		"job" : "Accounting Assistant IV"
-	},
-	{
-		"job" : "Systems Administrator II"
-	},
-	{
-		"job" : "Software Engineer I"
-	},
-	{
-		"job" : "Administrative Assistant II"
-	},
-	{
-		"job" : "Structural Analysis Engineer"
-	},
-	{
-		"job" : "Legal Assistant"
-	},
-	{
-		"job" : "Pharmacist"
-	},
-	{
-		"job" : "Budget/Accounting Analyst IV"
-	},
-	{
-		"job" : "Food Chemist"
-	},
-	{
-		"job" : "Automation Specialist IV"
-	},
-	{
-		"job" : "Web Developer IV"
-	},
-	{
-		"job" : "Structural Engineer"
-	},
-	{
-		"job" : "Sales Representative"
-	},
-	{
-		"job" : "Accountant II"
-	},
-	{
-		"job" : "Programmer III"
-	},
-	{
-		"job" : "Assistant Media Planner"
-	},
-	{
-		"job" : "General Manager"
-	},
-	{
-		"job" : "VP Sales"
-	},
-	{
-		"job" : "Assistant Professor"
-	},
-	{
-		"job" : "Programmer IV"
-	},
-	{
-		"job" : "Database Administrator II"
-	},
-	{
-		"job" : "Automation Specialist I"
-	},
-	{
-		"job" : "Database Administrator I"
-	},
-	{
-		"job" : "Payment Adjustment Coordinator"
-	},
-	{
-		"job" : "Systems Administrator IV"
-	},
-	{
-		"job" : "Administrative Assistant III"
-	},
-	{
-		"job" : "Data Coordiator"
-	},
-	{
-		"job" : "Research Assistant IV"
-	},
-	{
-		"job" : "Paralegal"
-	},
-	{
-		"job" : "Account Coordinator"
-	},
-	{
-		"job" : "Information Systems Manager"
-	},
-	{
-		"job" : "Chemical Engineer"
-	},
-	{
-		"job" : "Research Assistant III"
-	},
-	{
-		"job" : "Computer Systems Analyst I"
-	},
-	{
-		"job" : "Safety Technician IV"
-	},
-	{
-		"job" : "Staff Accountant IV"
-	},
-	{
-		"job" : "Web Designer IV"
-	},
-	{
-		"job" : "Media Manager I"
-	},
-	{
-		"job" : "VP Product Management"
-	},
-	{
-		"job" : "VP Marketing"
-	},
-	{
-		"job" : "Programmer Analyst II"
-	},
-	{
-		"job" : "Senior Editor"
-	},
-	{
-		"job" : "Nurse"
-	},
-	{
-		"job" : "Health Coach II"
-	},
-	{
-		"job" : "Budget/Accounting Analyst II"
-	},
-	{
-		"job" : "Software Test Engineer I"
-	},
-	{
-		"job" : "Sales Associate"
-	},
-	{
-		"job" : "Geologist IV"
-	},
-	{
-		"job" : "Office Assistant III"
-	},
-	{
-		"job" : "Environmental Tech"
-	},
-	{
-		"job" : "Senior Sales Associate"
-	},
-	{
-		"job" : "Developer I"
-	},
-	{
-		"job" : "Administrative Assistant IV"
-	},
-	{
-		"job" : "Software Test Engineer III"
-	},
-	{
-		"job" : "Programmer Analyst IV"
-	},
-	{
-		"job" : "Safety Technician III"
-	},
-	{
-		"job" : "Software Engineer II"
-	},
-	{
-		"job" : "Systems Administrator I"
-	},
-	{
-		"job" : "VP Accounting"
-	},
-	{
-		"job" : "Compensation Analyst"
-	},
-	{
-		"job" : "Media Manager III"
-	},
-	{
-		"job" : "Engineer III"
-	},
-	{
-		"job" : "VP Quality Control"
-	},
-	{
-		"job" : "Speech Pathologist"
-	},
-	{
-		"job" : "Safety Technician I"
-	},
-	{
-		"job" : "Computer Systems Analyst IV"
-	},
-	{
-		"job" : "Software Test Engineer II"
-	},
-	{
-		"job" : "Biostatistician I"
-	},
-	{
-		"job" : "Statistician III"
-	},
-	{
-		"job" : "Administrative Assistant I"
-	},
-	{
-		"job" : "Chief Design Engineer"
-	},
-	{
-		"job" : "Internal Auditor"
-	},
-	{
-		"job" : "Administrative Officer"
-	},
-	{
-		"job" : "Geological Engineer"
-	},
-	{
-		"job" : "Database Administrator IV"
-	},
-	{
-		"job" : "Accountant III"
-	},
-	{
-		"job" : "Engineer II"
-	},
-	{
-		"job" : "Nuclear Power Engineer"
-	},
-	{
-		"job" : "Health Coach III"
-	},
-	{
-		"job" : "Social Worker"
-	},
-	{
-		"job" : "Developer IV"
-	},
-	{
-		"job" : "Media Manager IV"
-	},
-	{
-		"job" : "Tax Accountant"
-	},
-	{
-		"job" : "Account Representative III"
-	},
-	{
-		"job" : "Biostatistician III"
-	},
-	{
-		"job" : "Engineer I"
-	},
-	{
-		"job" : "Computer Systems Analyst III"
-	},
-	{
-		"job" : "Executive Secretary"
-	},
-	{
-		"job" : "Physical Therapy Assistant"
-	},
-	{
-		"job" : "Junior Executive"
-	},
-	{
-		"job" : "Graphic Designer"
-	},
-	{
-		"job" : "IT systems maintenance specialist"
-	},
-	{
-		"job" : "Mechanical Systems Engineer"
-	},
-	{
-		"job" : "Editor"
-	},
-	{
-		"job" : "Director of Sales"
-	},
-	{
-		"job" : "Senior Financial Analyst"
-	},
-	{
-		"job" : "Geologist I"
-	},
-	{
-		"job" : "Programmer II"
-	},
-	{
-		"job" : "Desktop Support Technician"
-	},
-	{
-		"job" : "Technical Writer"
-	},
-	{
-		"job" : "Senior Cost Accountant"
-	},
-	{
-		"job" : "Associate Professor"
-	},
-	{
-		"job" : "Research Associate"
-	},
-	{
-		"job" : "Help Desk Technician"
-	},
-	{
-		"job" : "Analog Circuit Design manager"
-	},
-	{
-		"job" : "Electrical Engineer"
-	},
-	{
-		"job" : "Quality Engineer"
-	},
-	{
-		"job" : "Developer II"
-	},
-	{
-		"job" : "Statistician II"
-	},
-	{
-		"job" : "Senior Developer"
-	},
-	{
-		"job" : "Biostatistician IV"
-	},
-	{
-		"job" : "Automation Specialist II"
-	},
-	{
-		"job" : "Software Consultant"
-	},
-	{
-		"job" : "Systems Administrator III"
-	},
-	{
-		"job" : "Staff Accountant III"
-	},
-	{
-		"job" : "Database Administrator III"
-	},
-	{
-		"job" : "Safety Technician II"
-	},
-	{
-		"job" : "Environmental Specialist"
-	},
-	{
-		"job" : "Health Coach IV"
-	},
-	{
-		"job" : "Human Resources Assistant III"
+		"job" : "Account Representative IV"
 	}
 ]

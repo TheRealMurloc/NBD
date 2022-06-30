@@ -1,67 +1,6 @@
 MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("a3d6f2b4-40ab-4d16-83ea-fcdae7796094") }
-MongoDB server version: 4.4.14
-[ ]
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("d241240c-2c47-49be-8550-695d18b67ac5") }
-MongoDB server version: 4.4.14
-[ ]
-MongoDB shell version v4.4.15
 connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("6929ed5a-d1e3-40da-adee-d3188a752586") }
-MongoDB server version: 4.4.14
-[
-	{
-		"_id" : "Male",
-		"weight" : null,
-		"height" : null
-	},
-	{
-		"_id" : "Female",
-		"weight" : null,
-		"height" : null
-	}
-]
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("21e3b12f-0c6e-44e2-8ecb-5ac63ba5951e") }
-MongoDB server version: 4.4.14
-[
-	{
-		"_id" : "Male",
-		"weight" : 70.01020795477488,
-		"height" : 166.7369695134262
-	},
-	{
-		"_id" : "Female",
-		"weight" : 70.11331573604062,
-		"height" : 166.81260913705583
-	}
-]
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("e6d7c3c7-174e-4b20-9d48-b909e382626d") }
-MongoDB server version: 4.4.14
-uncaught exception: Error: command failed: {
-	"ok" : 0,
-	"errmsg" : "Unrecognized expression '$toFloat'",
-	"code" : 168,
-	"codeName" : "InvalidPipelineOperator"
-} : aggregate failed :
-_getErrorWithCode@src/mongo/shell/utils.js:25:13
-doassert@src/mongo/shell/assert.js:18:14
-_assertCommandWorked@src/mongo/shell/assert.js:683:17
-assert.commandWorked@src/mongo/shell/assert.js:773:16
-DB.prototype._runAggregate@src/mongo/shell/db.js:266:5
-DBCollection.prototype.aggregate@src/mongo/shell/collection.js:1058:12
-@zapytanie_1_A.js:1:11
-failed to load: zapytanie_1_A.js
-exiting with code -3
-MongoDB shell version v4.4.15
-connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
-Implicit session: session { "id" : UUID("16302502-2e33-4cd4-a1cf-90ac19bbf559") }
+Implicit session: session { "id" : UUID("c04e6bff-ad9e-4254-8b0e-3e0691c57e68") }
 MongoDB server version: 4.4.14
 [
 	{
